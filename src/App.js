@@ -4,8 +4,8 @@ import Recipe from "./Recipe";
 
 function App() {
 
-  const APP_ID = "b69cba20";
-  const APP_KEY = "d784508e92e0bff4afe7a690a687b7e4";
+  const APP_ID = APP_ID;
+  const APP_KEY = APP_KEY;
 
   const [recipes, setRecipes] = useState([]);
   const [search, setSearch] = useState("");
