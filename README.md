@@ -27,7 +27,7 @@ React
 Edamam API      
 
 ## How to Use  
-Coming Soon  
+When you open the application, recipe results for "chicken" will already be available to you. To find other recipes, type an ingredient into the search bar and click "search". 
 
 ## How I Made This        
 I coded along with a tutorial by Dev Ed on YouTube: https://tinyurl.com/4d87wyjz. This application uses async/await to retrieve recipe information from the Edamam API based on search information provided by the user. The Recipe component takes certain information in from the response as props and organizes it, then that information gets passed back up to App.js for rendering.  
